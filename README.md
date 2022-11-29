@@ -1,4 +1,4 @@
-# Assessment
+# Reward-Points App
 Run the application as spring boot app
 # Rest End Points: 
 POST: http://localhost:8282/RetailRewards/api/rewards
