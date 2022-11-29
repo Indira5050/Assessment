@@ -1,8 +1,8 @@
 # Assessment
 Run the application as spring boot app
-# Rest End Point: 
-Post Request : http://localhost:8282/RetailRewards/api/rewards
-#Sample Json Request:
+# Rest End Points: 
+POST: http://localhost:8282/RetailRewards/api/rewards
+# Sample Json Request:
 {
     "timePeriod": 3,
     "transactions": [
